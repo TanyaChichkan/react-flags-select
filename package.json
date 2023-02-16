@@ -1,6 +1,7 @@
 {
   "name": "@tina/react-flags-select",
   "version": "2.2.3",
+  "author": "kost927",
   "description": "react-flags-select React component",
   "main": "build/index.js",
   "module": "build/index.esm.js",
@@ -89,7 +90,6 @@
     "type": "git",
     "url": "git+https://github.com/ekwonye-richard/react-flags-select.git"
   },
-  "author": "Richard Ekwonye",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ekwonye-richard/react-flags-select/issues"
