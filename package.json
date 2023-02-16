@@ -1,5 +1,5 @@
 {
-  "name": "@addGP_US_VI_UK_VI/react-flags-select",
+  "name": "@tina/react-flags-select",
   "version": "2.2.3",
   "description": "react-flags-select React component",
   "main": "build/index.js",
