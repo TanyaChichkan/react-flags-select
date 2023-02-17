@@ -220,7 +220,6 @@ export const countries: Countries = {
   VE: "Venezuela, Bolivarian Republic of",
   VN: "Viet Nam",
   VI: "United States Virgin Islands",
-  VG: "British Virgin Islands",
   YE: "Yemen",
   ZM: "Zambia",
   ZW: "Zimbabwe",
