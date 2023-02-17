@@ -1,6 +1,6 @@
 {
   "name": "@kost927/react-flags-select",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "kost927",
   "description": "react-flags-select React component",
   "main": "build/index.js",
