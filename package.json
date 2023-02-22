@@ -1,6 +1,6 @@
 {
   "name": "@kost927/react-flags-select",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "kost927",
   "description": "react-flags-select React component",
   "main": "build/index.js",
@@ -97,5 +97,8 @@
   "homepage": "https://github.com/ekwonye-richard/react-flags-select#readme",
   "keywords": [
     "react-component"
-  ]
+  ],
+  "volta": {
+    "node": "14.17.4"
+  }
 }
